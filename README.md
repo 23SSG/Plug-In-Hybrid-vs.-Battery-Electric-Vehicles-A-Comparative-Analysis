@@ -73,7 +73,7 @@ All Power BI dashboards and visual insights created for this project are documen
 
 🔗 LinkedIn Article:
 
-[Add your LinkedIn article link here](https://www.linkedin.com/pulse/decoding-ev-trends-whos-leading-charge-s-pradhan-xkhve)
+[(https://www.linkedin.com/pulse/decoding-ev-trends-whos-leading-charge-s-pradhan-xkhve)]
 
 -----
 
