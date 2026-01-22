@@ -42,6 +42,17 @@ PHEVs Lag in Full Electrification: While PHEVs offer electric range, they rely o
 
 Market Shift Toward Full Electrification: Consumer preference and infrastructure development indicate a clear trend toward BEVs over PHEVs.
 
+-----
+📈 Power BI Visualizations
+
+All Power BI dashboards and visual insights created for this project are documented in a detailed LinkedIn article, including snapshots and interpretations.
+
+🔗 LinkedIn Article:
+
+[Add your LinkedIn article link here](https://www.linkedin.com/pulse/decoding-ev-trends-whos-leading-charge-s-pradhan-xkhve)
+
+-----
+
 🛠 Analysis Approach
 
 The analysis focused on:
