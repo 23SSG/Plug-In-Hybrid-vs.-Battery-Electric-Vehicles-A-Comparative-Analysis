@@ -1,8 +1,19 @@
 # Plug-In-Hybrid-vs.-Battery-Electric-Vehicles-A-Comparative-Analysis
 
- 📘 Project Overview
+📘 Project Overview
+ As the shift toward sustainable transportation accelerates, electric vehicles (EVs) have become a key solution for reducing carbon emissions and dependence on fossil fuels. This analysis compares two major EV types—Plug-In Hybrid Electric Vehicles (PHEVs) and Battery Electric Vehicles (BEVs)—focusing on efficiency, cost-effectiveness, and popularity. By incorporating real-world data and examining the latest EV models from leading manufacturers such as Tesla, Ford, Toyota, and BMW, this study explores how advancements in battery technology range and charging infrastructure influence consumer choices. The goal is to determine which vehicle type offers the best balance of sustainability, convenience, and economic viability in today’s evolving automotive landscape.
+
+📊 Dataset
 
 Source: Kaggle.com
+
+Format: Archived ZIP file
+
+Contents: CSV file(s) used for analysis
+
+The dataset is provided as a compressed ZIP archive.
+After downloading, extract the ZIP file to access the CSV dataset used in this project.
+
 
 Size: 232,230 rows × 17 columns
 
@@ -11,6 +22,19 @@ Content: Vehicle specifications, battery range, charging time, manufacturer, cos
 This dataset provided a comprehensive view of EV adoption patterns, manufacturer strategies, and technical specifications, enabling meaningful comparative analysis between PHEVs and BEVs.
 
 ---
+
+## 📂 Data Instructions
+
+The original datasets are not located in subfolders. 
+To run the notebook successfully:
+
+1. Download or clone this repository.
+2. Place the following CSV files in the **same directory** as the notebook:
+   - Electric Vehicle Population Data.csv 
+3. Open the notebook `Electric Vehicle-2.ipynb ` and run all cells.
+
+> Note: The notebook uses relative paths assuming the CSV files are in the same folder.
+
 
 ## 🧹 Data Cleaning & Exploratory Data Analysis (EDA)
 
@@ -69,16 +93,14 @@ Data Visualization: Using charts and graphs to highlight trends and differences 
 
 📁  Repository Structure
 
-📦 EV-Comparative-Analysis
-│
-├── data/
-│   └── ev_dataset.csv              # Dataset used for analysis
-│
-├── notebooks/
-│   └── ev_analysis.ipynb           # Data cleaning, EDA, and analysis
-│
-├── README.md                       # Project documentation
-└── LICENSE                         # MIT License
+ EV-Comparative-Analysis/
+├── Electric Vehicle Population Data.csv   # Dataset used for analysis, is in archive-zip file
+├── Electric Vehicle-2.ipynb               # Data cleaning, EDA, and analysis
+├── README.md                              # Project documentation
+
+└── LICENSE                                # MIT License
+
+              
 
 
 
